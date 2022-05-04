@@ -1,2 +1,2 @@
 # Tindog-bootstrap
-Bootstrap practice
+Building a website using HTML,CSS and Bootstrap
